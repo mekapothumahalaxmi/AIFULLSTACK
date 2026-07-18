@@ -1,0 +1,4 @@
+gradio
+Groq
+duckduckgo_search DDGS
+ requests 
